@@ -5,6 +5,8 @@ Various projects to test the advanced capabilities of the beaglebone/pocket beag
 
 ![alt text](images_and_videos/PRUSS_pocket_beagle_setup.JPG)
 
+[PRU_video](https://www.youtube.com/watch?v=P8U2d4qgKzo)
+
 2) real-time kernel and POSIX threads
 
 3) loadable kernel modules
