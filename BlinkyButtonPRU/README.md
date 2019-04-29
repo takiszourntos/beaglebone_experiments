@@ -7,19 +7,19 @@ https://docs.google.com/document/d/1s_AE1yhSqoCRC9qIvrGuEmumVsIWkeXPRe442tu0BoY/
 This directory contains:
 
 
-1) remoteproc/ : the remoteproc version of the BlinkyButton PRU project
-	|
-	|
-	------- README.txt
-	|
-	|
-	------- pruproj_startup.sh : configures pins for enhanced GPIOs
-	|
-	|
-	------- PRU0_blinky/ : assembly-language code and C container program for PRU0
-	|
-	|
-	------- PRU1_button/ : assembly-language code and C container program for PRU1
+,  1) remoteproc/ : the remoteproc version of the BlinkyButton PRU project
+,  	|
+,  	|
+,    	------- README.txt
+,  	|
+,  	|
+,  	------- pruproj_startup.sh : configures pins for enhanced GPIOs
+,  	|
+,  	|
+,  	------- PRU0_blinky/ : assembly-language code and C container program for PRU0
+,  	|
+,  	|
+,  	------- PRU1_button/ : assembly-language code and C container program for PRU1
 
 
 	
