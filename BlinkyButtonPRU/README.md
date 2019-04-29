@@ -8,12 +8,15 @@ This directory contains:
 
 
 1. remoteproc/ : the remoteproc version of the BlinkyButton PRU project
+
     	* README.txt : instructions
 	* pruproj_startup.sh : configures pins for enhanced GPIOs
   	* PRU0_blinky/ : assembly-language code and C container program for PRU0
 	* PRU1_button/ : assembly-language code and C container program for PRU1
+
 	
 2. UIO/ : the UIO version of the BlinkyButton PRU project
+
 	* README.txt : instructions
 	* build.sh : builds the application, calls pasm and gcc
 	* pruproj_startup.sh : configures pins for enhanced GPIOs
@@ -21,6 +24,7 @@ This directory contains:
 	* PRU_blinky_button.hp : assembly-language header file
 	* PRUSS_blinky.p : PRU0 assembly-language program
 	* PRUSS_button.p : PRU1 assembly-language program
+
 
 3. electronics/	: a KiCAD working directory containing schematic for this project
 
