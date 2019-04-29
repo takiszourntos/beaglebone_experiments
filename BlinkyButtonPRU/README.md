@@ -24,6 +24,9 @@ This directory contains:
 	* PRUSS_button.p : PRU1 assembly-language program
 
 
-3. electronics/	: a KiCAD working directory containing schematic for this project
+3. electronics/	: a KiCAD working directory containing the schematic for this project
+
+author: T. Zourntos (takis.zourntos@emads.org) 
+date: 04-28-2019
 
 
